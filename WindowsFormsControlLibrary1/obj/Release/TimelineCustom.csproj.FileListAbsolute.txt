@@ -1,0 +1,7 @@
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\WindowsFormsControlLibrary1\bin\Release\WindowsFormsControlLibrary1.dll
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\WindowsFormsControlLibrary1\bin\Release\WindowsFormsControlLibrary1.pdb
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\WindowsFormsControlLibrary1\obj\Release\WindowsFormsControlLibrary1.Properties.Resources.resources
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\WindowsFormsControlLibrary1\obj\Release\WindowsFormsControlLibrary1.ControlBar.resources
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\WindowsFormsControlLibrary1\obj\Release\TimelineCustom.csproj.GenerateResource.Cache
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\WindowsFormsControlLibrary1\obj\Release\WindowsFormsControlLibrary1.dll
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\WindowsFormsControlLibrary1\obj\Release\WindowsFormsControlLibrary1.pdb

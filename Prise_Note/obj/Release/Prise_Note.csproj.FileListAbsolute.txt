@@ -1,0 +1,15 @@
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\bin\Release\Prise_Note.exe.config
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\bin\Release\Prise_Note.exe
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\bin\Release\Prise_Note.pdb
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\bin\Release\WindowsFormsControlLibrary1.dll
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\bin\Release\WindowsFormsControlLibrary1.pdb
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.csprojResolveAssemblyReference.cache
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.Button_menu.resources
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.choix_etiquette.resources
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.Initialisation.resources
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.form1.resources
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.OverlayControl.resources
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.Properties.Resources.resources
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.csproj.GenerateResource.Cache
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.exe
+E:\ENSC\2A\Semestre 8\Stage\C#\Prise_Note\Prise_Note\Prise_Note\obj\Release\Prise_Note.pdb

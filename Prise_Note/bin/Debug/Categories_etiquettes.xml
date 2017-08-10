@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <SA>
+        <Carte Categorie="SA" Titre="SA" Type="Bad"/>
+        <Carte Categorie="SA" Titre="SA" Type="Good"/>
+        <Carte Categorie="SA" Titre="Perception" Type="Bad"/>
+        <Carte Categorie="SA" Titre="Perception" Type="Good"/>
+        <Carte Categorie="SA" Titre="Analyse" Type="Bad"/> 
+        <Carte Categorie="SA" Titre="Analyse" Type="Good"/>
+        <Carte Categorie="SA" Titre="Décision" Type="Bad"/>
+        <Carte Categorie="SA" Titre="Décision" Type="Good"/>
+        <Carte Categorie="SA" Titre="Autre" Type="Bad"/>
+        <Carte Categorie="SA" Titre="Autre" Type="Good"/>
+    </SA>
+    <Performance>
+        <Carte Categorie="Performance" Titre="Performance" Type="Bad"/>
+        <Carte Categorie="Performance" Titre="Performance" Type="Good"/>
+        <Carte Categorie="Performance" Titre="Skills" Type="Bad"/>
+        <Carte Categorie="Performance" Titre="Skills" Type="Good"/>
+        <Carte Categorie="Performance" Titre="Rules" Type="Bad"/>
+        <Carte Categorie="Performance" Titre="Rules" Type="Good"/>
+        <Carte Categorie="Performance" Titre="Knowledge" Type="Bad"/>
+        <Carte Categorie="Performance" Titre="Knowledge" Type="Good"/>
+        <Carte Categorie="Performance" Titre="Autre" Type="Bad"/>
+        <Carte Categorie="Performance" Titre="Autre" Type="Good"/>
+    </Performance>
+	<Comportement>
+        <Carte Categorie="Comportement" Titre="Comportement" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="Comportement" Type="Good"/>
+        <Carte Categorie="Comportement" Titre="Emotion" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="Emotion" Type="Good"/>
+        <Carte Categorie="Comportement" Titre="Anticipation" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="Anticipation" Type="Good"/>
+        <Carte Categorie="Comportement" Titre="Communication" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="Communication" Type="Good"/>
+        <Carte Categorie="Comportement" Titre="Leader/Follower" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="Leader/Follower" Type="Good"/>
+        <Carte Categorie="Comportement" Titre="Répartitions des tâches" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="Répartitions des tâches" Type="Good"/>
+        <Carte Categorie="Comportement" Titre="IHS" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="IHS" Type="Good"/>
+        <Carte Categorie="Comportement" Titre="Autoévaluation" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="Autoévaluation" Type="Good"/>
+        <Carte Categorie="Comportement" Titre="Autre" Type="Bad"/>
+        <Carte Categorie="Comportement" Titre="Autre" Type="Good"/>
+    </Comportement>
+     <Securite>
+        <Carte Categorie="Securite" Titre="Securite" Type="Bad"/>
+        <Carte Categorie="Securite" Titre="Securite" Type="Good"/>
+        <Carte Categorie="Securite" Titre="Skills" Type="Bad"/>
+        <Carte Categorie="Securite" Titre="Skills" Type="Good"/>
+        <Carte Categorie="Securite" Titre="Rules" Type="Bad"/>
+        <Carte Categorie="Securite" Titre="Rules" Type="Good"/>
+        <Carte Categorie="Securite" Titre="Knowledge" Type="Bad"/>
+        <Carte Categorie="Securite" Titre="Knowledge" Type="Good"/>
+        <Carte Categorie="Securite" Titre="Autre" Type="Bad"/>
+        <Carte Categorie="Securite" Titre="Autre" Type="Good"/>       
+    </Securite>
+</Tags>
